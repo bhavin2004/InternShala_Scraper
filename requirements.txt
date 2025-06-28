@@ -5,3 +5,4 @@ beautifulsoup4
 streamlit
 flask
 streamlit-option-menu
+openai
